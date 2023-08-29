@@ -1,4 +1,4 @@
-package com.mypos.mypossdkdemo;
+package com.mypos.mypossdkdemo; 
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
