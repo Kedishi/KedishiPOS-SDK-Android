@@ -1,1 +1,1 @@
-include ':app', ':slavesdk'
+include ':app', ':slavesdk' 
